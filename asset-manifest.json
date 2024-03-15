@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Info655-Gisin/static/css/main.d19a66ab.css",
+    "main.js": "/Info655-Gisin/static/js/main.540ad274.js",
+    "static/js/787.a762f0c1.chunk.js": "/Info655-Gisin/static/js/787.a762f0c1.chunk.js",
+    "index.html": "/Info655-Gisin/index.html",
+    "main.d19a66ab.css.map": "/Info655-Gisin/static/css/main.d19a66ab.css.map",
+    "main.540ad274.js.map": "/Info655-Gisin/static/js/main.540ad274.js.map",
+    "787.a762f0c1.chunk.js.map": "/Info655-Gisin/static/js/787.a762f0c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d19a66ab.css",
+    "static/js/main.540ad274.js"
+  ]
+}
