@@ -2,6 +2,7 @@
   "name": "info655-assignment2",
   "version": "0.1.0",
   "private": true,
+  "deploy" : "npm run build && gh-pages -d build",
   "homepage": "https://gisin3872.github.io/Info655-Gisin",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
